@@ -1,0 +1,18 @@
+form{
+    margin: 50px;
+    
+}
+
+input, select{
+    margin: 10px;
+    padding: 5px;
+}
+
+button{
+    padding: 5px;
+    background-color: darkgrey;
+}
+
+*{
+    background-color: lightgrey;
+}

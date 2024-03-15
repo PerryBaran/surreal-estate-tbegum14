@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Alert does not render when message is null 1`] = `[Function]`;
+
+exports[`Alert renders correctly 1`] = `[Function]`;

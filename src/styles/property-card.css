@@ -1,0 +1,26 @@
+.property-card{
+    width: 300px;
+    height: 300px;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    margin: 20px;
+    background-color: white;
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.property-card>*, .property-card>*>*, .property-card>*>*>*{
+    background-color: white;
+}
+
+.property-card_button{
+    width: 300px;
+    background-color: rgb(131, 90, 131);
+    color: white;
+}
+
+.property-card_button>*{
+    background-color: rgb(131, 90, 131);
+}

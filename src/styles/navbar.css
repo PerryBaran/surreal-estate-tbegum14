@@ -1,0 +1,32 @@
+.nav-bar{
+    border-bottom: 1px solid grey;
+    background-color: white;
+    height: 50px;
+    display: flex;
+}
+
+.nav-bar>*{
+    background-color: white;
+}
+
+.nav-bar > img {
+    height: 50px;
+    width: auto;
+}
+
+.nav-bar > ul {
+    display: flex;
+    list-style-type: none;
+    margin-top: 0px;
+}
+
+li{
+    background-color: white;
+}
+
+li > a{
+    background-color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}

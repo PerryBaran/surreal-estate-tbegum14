@@ -1,0 +1,20 @@
+.sidebar, .sidebar>*, .sidebar>*>*{
+    background-color: white;
+}
+
+.sidebar{
+    height: 100vh;
+}
+
+.sidebar-button{
+    background-color: lightgray;
+}
+
+ul{
+    text-align: center;
+    line-height: 50px;
+}
+
+.sidebar-form{
+    margin: 10px;
+}
