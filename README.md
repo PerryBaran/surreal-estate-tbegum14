@@ -15,7 +15,9 @@ Additional Footer component added for completion
 Further ideas for project - 
 Each property opens to show pictures
 Email seller
+Media queries for different screen sizes
 
+If I was to start this project I would better utilise TDD and mobile driven development
 
 ## Available Scripts
 

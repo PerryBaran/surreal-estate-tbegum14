@@ -1,5 +1,6 @@
-form{
+.add-property > form{
     margin: 50px;
+    height: 78vh;
     
 }
 

@@ -17,7 +17,7 @@ function App() {
 				<Route path="add-property" element={<AddProperty />} />
 			</Routes>
 			</BrowserRouter>
-			<Footer />
+			<Footer className="footer"/>
 		</div>
 	);
 }
