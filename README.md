@@ -1,5 +1,21 @@
 Surreal Estate
 
+View Properties - Home page
+- Click on a City to filter properties on the page by their city
+- Click "Price Ascending" or "Price Descending" to sort by price
+- Click to sort by price and then filter by city
+- Property titles can be searched in the search bar 
+- Email link will take you to a blank page - to extend this project further I would create a form that could send an email
+
+Add a Property
+- Form can be filled in with text/numbers or left black
+
+Additional Footer component added for completion
+
+Further ideas for project - 
+Each property opens to show pictures
+Email seller
+
 
 ## Available Scripts
 

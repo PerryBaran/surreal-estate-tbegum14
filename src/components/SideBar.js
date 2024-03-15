@@ -29,7 +29,6 @@ export default function SideBar() {
 			title: { $regex: searchTitle },
 		});
 		navigate(titleQuery);
-		console.log(titleQuery);
 	};
 
 	return (
