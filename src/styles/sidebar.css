@@ -6,15 +6,29 @@
     height: 100vh;
 }
 
-.sidebar-button{
-    background-color: lightgray;
+.sidebar-button, .sidebar-button>*{
+    color: white;
+    background-color: rgb(131, 90, 131);
 }
 
 ul{
-    text-align: center;
     line-height: 50px;
+    margin-left: 10px;
 }
 
 .sidebar-form{
     margin: 10px;
+}
+
+.sidebar-links > a {
+    text-decoration: none;
+    color: black
+}
+
+.sidebar-links >a:visited{
+    color: black
+}
+
+.sidebar>a:hover{
+    cursor: pointer;
 }

@@ -55,8 +55,7 @@ export default function SideBar() {
 				<Link to={buildQueryString("query", { city: "Sheffield" })}>Sheffield</Link>
 				<br></br>
 				<Link to={buildQueryString("query", { city: "Liverpool" })}>Liverpool</Link>
-			</ul>
-			<ul>
+				<br></br>
 				<h3>Sort by:</h3>
 				<Link to={buildQueryString("sort", { price: 1 })}>Price Ascending</Link>
 				<br></br>
