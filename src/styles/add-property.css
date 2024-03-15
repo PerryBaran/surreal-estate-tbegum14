@@ -1,7 +1,12 @@
 .add-property > form{
     margin: 50px;
     height: 78vh;
-    
+    padding:20px;
+    background-color: white;   
+}
+
+.add-property>form>label{
+    background-color: white;
 }
 
 input, select{
@@ -11,7 +16,8 @@ input, select{
 
 button{
     padding: 5px;
-    background-color: darkgrey;
+    background-color: rgb(131, 90, 131);
+    color: white
 }
 
 *{
