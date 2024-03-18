@@ -1,0 +1,19 @@
+.alert {
+    margin: 20px;
+}
+
+.alert-success{
+    color: green;
+    border: 3px solid green;
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.alert-error{
+    color: red;
+    border: 3px solid red;
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+}
